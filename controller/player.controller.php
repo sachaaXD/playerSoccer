@@ -8,7 +8,7 @@
 
         public function getPlayerBY()
         {
-            if(!isset($_GETID))
+            
         }
     }
 ?>
